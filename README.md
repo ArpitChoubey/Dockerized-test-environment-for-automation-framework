@@ -1,4 +1,10 @@
-🚀 Dockerized Test Environment for Automation Framework | Playwright + Docker + Mock API + Database
+</p> <h1 align="center">
+
+🚀 Enterprise-Grade Dockerized Automation Testing Environment with Playwright, Mock APIs & Database
+
+</h1> <p align="center">
+
+  
 <p align="center">
 
 <img src="https://img.shields.io/badge/API-Testing-orange?style=for-the-badge"/>
@@ -25,11 +31,7 @@
 
 
 
-</p> <h1 align="center">
 
-🚀 Enterprise-Grade Dockerized Automation Testing Environment with Playwright, Mock APIs & Database
-
-</h1> <p align="center">
 
 A production-inspired automation testing environment built using <b>Docker, Playwright, Mock APIs, and Database services</b>. This repository demonstrates how modern QA Automation Engineers and SDETs create isolated, scalable, and reproducible testing environments for reliable end-to-end automation.
 
